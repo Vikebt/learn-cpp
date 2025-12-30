@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vikebt\\source\\repos\\Project202\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{164AAA05-8430-4DC1-9203-06E42462419B}|Project202.vcxproj|C:\\Users\\Vikebt\\source\\repos\\Project202\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{164AAA05-8430-4DC1-9203-06E42462419B}|Project202.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:283709:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "person.cpp",
+              "DocumentMoniker": "C:\\Users\\Vikebt\\source\\repos\\Project202\\person.cpp",
+              "RelativeDocumentMoniker": "person.cpp",
+              "ToolTip": "C:\\Users\\Vikebt\\source\\repos\\Project202\\person.cpp",
+              "RelativeToolTip": "person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T03:55:19.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

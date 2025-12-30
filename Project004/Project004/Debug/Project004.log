@@ -1,0 +1,3 @@
+﻿  Random_Access_Memor.cpp
+C:\Users\Vikebt\source\repos\Project004\Random_Access_Memor.cpp(17,1): warning C4172: 返回局部变量的地址或临时 : a
+  Project004.vcxproj -> C:\Users\Vikebt\source\repos\Project004\Debug\Project004.exe

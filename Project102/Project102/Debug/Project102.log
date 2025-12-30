@@ -1,0 +1,28 @@
+﻿  01_构造函数和析构函数.cpp
+  02_构造函数的分类及调用.cpp
+  03_拷贝构造函数调用时机.cpp
+  04_构造函数调用规则.cpp
+  05_深拷贝和浅拷贝.cpp
+  06_初始化列表.cpp
+  07_类对象作为类成员.cpp
+  08_静态成员变量.cpp
+  09_静态成员函数.cpp
+  正在生成代码...
+02_构造函数的分类及调用.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 01_构造函数和析构函数.obj 中定义
+02_构造函数的分类及调用.obj : error LNK2005: _main 已经在 01_构造函数和析构函数.obj 中定义
+03_拷贝构造函数调用时机.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 01_构造函数和析构函数.obj 中定义
+03_拷贝构造函数调用时机.obj : error LNK2005: _main 已经在 01_构造函数和析构函数.obj 中定义
+04_构造函数调用规则.obj : error LNK2005: "void __cdecl test02(void)" (?test02@@YAXXZ) 已经在 03_拷贝构造函数调用时机.obj 中定义
+04_构造函数调用规则.obj : error LNK2005: _main 已经在 01_构造函数和析构函数.obj 中定义
+05_深拷贝和浅拷贝.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 01_构造函数和析构函数.obj 中定义
+05_深拷贝和浅拷贝.obj : error LNK2005: _main 已经在 01_构造函数和析构函数.obj 中定义
+06_初始化列表.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 01_构造函数和析构函数.obj 中定义
+06_初始化列表.obj : error LNK2005: _main 已经在 01_构造函数和析构函数.obj 中定义
+07_类对象作为类成员.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 01_构造函数和析构函数.obj 中定义
+07_类对象作为类成员.obj : error LNK2005: _main 已经在 01_构造函数和析构函数.obj 中定义
+08_静态成员变量.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 01_构造函数和析构函数.obj 中定义
+08_静态成员变量.obj : error LNK2005: "void __cdecl test02(void)" (?test02@@YAXXZ) 已经在 03_拷贝构造函数调用时机.obj 中定义
+08_静态成员变量.obj : error LNK2005: _main 已经在 01_构造函数和析构函数.obj 中定义
+09_静态成员函数.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 01_构造函数和析构函数.obj 中定义
+09_静态成员函数.obj : error LNK2005: _main 已经在 01_构造函数和析构函数.obj 中定义
+C:\Users\Vikebt\source\repos\Project102\Debug\Project102.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

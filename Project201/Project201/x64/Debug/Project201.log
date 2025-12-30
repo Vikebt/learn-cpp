@@ -1,0 +1,6 @@
+﻿  01_函数模板语法.cpp
+C:\Users\Vikebt\source\repos\Project201\01_函数模板语法.cpp(36,10): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project201\01_函数模板语法.cpp(36,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project201\01_函数模板语法.cpp(55,10): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project201\01_函数模板语法.cpp(55,20): warning C4305: “初始化”: 从“double”到“float”截断
+  Project201.vcxproj -> C:\Users\Vikebt\source\repos\Project201\x64\Debug\Project201.exe

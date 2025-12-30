@@ -1,0 +1,3 @@
+﻿  quote.cpp
+C:\Users\Vikebt\source\repos\Project005\quote.cpp(36,1): warning C4172: 返回局部变量的地址或临时 : a
+  Project005.vcxproj -> C:\Users\Vikebt\source\repos\Project005\x64\Debug\Project005.exe

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vikebt\\source\\repos\\Project108\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4D5FE0-92AF-46C2-8360-ED4CC4AFA403}|Project108.vcxproj|C:\\Users\\Vikebt\\source\\repos\\Project108\\04_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u8BFB\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD4D5FE0-92AF-46C2-8360-ED4CC4AFA403}|Project108.vcxproj|solutionrelative:04_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u8BFB\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4D5FE0-92AF-46C2-8360-ED4CC4AFA403}|Project108.vcxproj|C:\\Users\\Vikebt\\source\\repos\\Project108\\03_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u5199\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD4D5FE0-92AF-46C2-8360-ED4CC4AFA403}|Project108.vcxproj|solutionrelative:03_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u5199\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:283709:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "04_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u8BFB\u6587\u4EF6.cpp",
+              "DocumentMoniker": "C:\\Users\\Vikebt\\source\\repos\\Project108\\04_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u8BFB\u6587\u4EF6.cpp",
+              "RelativeDocumentMoniker": "04_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u8BFB\u6587\u4EF6.cpp",
+              "ToolTip": "C:\\Users\\Vikebt\\source\\repos\\Project108\\04_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u8BFB\u6587\u4EF6.cpp",
+              "RelativeToolTip": "04_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u8BFB\u6587\u4EF6.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T12:28:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u5199\u6587\u4EF6.cpp",
+              "DocumentMoniker": "C:\\Users\\Vikebt\\source\\repos\\Project108\\03_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u5199\u6587\u4EF6.cpp",
+              "RelativeDocumentMoniker": "03_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u5199\u6587\u4EF6.cpp",
+              "ToolTip": "C:\\Users\\Vikebt\\source\\repos\\Project108\\03_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u5199\u6587\u4EF6.cpp",
+              "RelativeToolTip": "03_\u4E8C\u8FDB\u5236\u6587\u4EF6-\u5199\u6587\u4EF6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T12:28:13.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

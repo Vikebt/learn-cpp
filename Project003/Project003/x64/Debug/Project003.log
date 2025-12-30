@@ -1,0 +1,10 @@
+﻿  structure.cpp
+C:\Users\Vikebt\source\repos\Project003\structure.cpp(31,16): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project003\structure.cpp(43,15): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project003\structure.cpp(52,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project003\structure.cpp(53,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project003\structure.cpp(54,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project003\structure.cpp(55,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project003\structure.cpp(68,16): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Vikebt\source\repos\Project003\structure.cpp(79,19): warning C4305: “=”: 从“double”到“float”截断
+  Project003.vcxproj -> C:\Users\Vikebt\source\repos\Project003\x64\Debug\Project003.exe
